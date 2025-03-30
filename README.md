@@ -76,7 +76,7 @@ docker ps
 ```
 Wynik: 
 
-
+![App Screenshot](docker%20ps%20-%20screenshot.png)
 
 ### Testowanie aplikacji z użyciem przeglądarki:
 
