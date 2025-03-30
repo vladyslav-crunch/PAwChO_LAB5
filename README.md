@@ -80,5 +80,5 @@ Wynik:
 
 ### Testowanie aplikacji z użyciem przeglądarki:
 
-
+![App Screenshot](test%20-%20screenshot.png)
 
